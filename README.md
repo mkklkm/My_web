@@ -1,11 +1,11 @@
-# my_web
+# My_web
 
 这是一个个人展示型网页项目，定位是「AI 工程 / 产品设计 / 前端展示」结合的个人主页。  
 页面整体风格参考 iPhone 官网的视觉方向，强调冷白、银灰、系统蓝、高级留白、玻璃质感卡片和克制的动态效果。
 
 在线访问地址：
 
-- `GitHub Pages`: [https://mkklkm.github.io/my_web/](https://mkklkm.github.io/my_web/)
+- `GitHub Pages`: [https://mkklkm.github.io/my_web/](https://mkklkm.github.io/My_web/)
 
 ## 这个网页是做什么的
 
